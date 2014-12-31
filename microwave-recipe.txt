@@ -1,0 +1,6 @@
+get ready meal
+open microwave
+place ready meal
+close micro-wave
+set timer
+nuke
